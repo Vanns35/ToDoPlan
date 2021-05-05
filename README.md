@@ -1,1 +1,1 @@
-Demo App
+Planner App
